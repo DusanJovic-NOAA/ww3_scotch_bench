@@ -1,0 +1,3 @@
+[submodule "scotch"]
+	path = scotch
+	url = https://gitlab.inria.fr/scotch/scotch
